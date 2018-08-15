@@ -1,0 +1,1 @@
+# Write-Multiple-images-into-a-folder-using-python-cv2
